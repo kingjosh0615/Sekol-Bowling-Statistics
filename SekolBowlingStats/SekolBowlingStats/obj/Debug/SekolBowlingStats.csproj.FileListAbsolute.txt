@@ -13,3 +13,18 @@ C:\Users\WILES_JOSHUA\source\repos\Sekol-Bowling-Statistics\SekolBowlingStats\Se
 C:\Users\WILES_JOSHUA\source\repos\Sekol-Bowling-Statistics\SekolBowlingStats\SekolBowlingStats\obj\Debug\SekolBowlingStats.csproj.CoreCompileInputs.cache
 C:\Users\WILES_JOSHUA\source\repos\Sekol-Bowling-Statistics\SekolBowlingStats\SekolBowlingStats\obj\Debug\SekolBowlingStats.exe
 C:\Users\WILES_JOSHUA\source\repos\Sekol-Bowling-Statistics\SekolBowlingStats\SekolBowlingStats\obj\Debug\SekolBowlingStats.pdb
+C:\Users\Josh\Documents\School Stuff 2020-2021\C# Stuff\Sekol-Bowling-Statistics\SekolBowlingStats\SekolBowlingStats\bin\Debug\SekolBowlingStats.exe.config
+C:\Users\Josh\Documents\School Stuff 2020-2021\C# Stuff\Sekol-Bowling-Statistics\SekolBowlingStats\SekolBowlingStats\bin\Debug\SekolBowlingStats.exe
+C:\Users\Josh\Documents\School Stuff 2020-2021\C# Stuff\Sekol-Bowling-Statistics\SekolBowlingStats\SekolBowlingStats\bin\Debug\SekolBowlingStats.pdb
+C:\Users\Josh\Documents\School Stuff 2020-2021\C# Stuff\Sekol-Bowling-Statistics\SekolBowlingStats\SekolBowlingStats\obj\Debug\SekolBowlingStats.csprojAssemblyReference.cache
+C:\Users\Josh\Documents\School Stuff 2020-2021\C# Stuff\Sekol-Bowling-Statistics\SekolBowlingStats\SekolBowlingStats\obj\Debug\MainWindow.g.cs
+C:\Users\Josh\Documents\School Stuff 2020-2021\C# Stuff\Sekol-Bowling-Statistics\SekolBowlingStats\SekolBowlingStats\obj\Debug\App.g.cs
+C:\Users\Josh\Documents\School Stuff 2020-2021\C# Stuff\Sekol-Bowling-Statistics\SekolBowlingStats\SekolBowlingStats\obj\Debug\SekolBowlingStats_MarkupCompile.cache
+C:\Users\Josh\Documents\School Stuff 2020-2021\C# Stuff\Sekol-Bowling-Statistics\SekolBowlingStats\SekolBowlingStats\obj\Debug\SekolBowlingStats_MarkupCompile.lref
+C:\Users\Josh\Documents\School Stuff 2020-2021\C# Stuff\Sekol-Bowling-Statistics\SekolBowlingStats\SekolBowlingStats\obj\Debug\MainWindow.baml
+C:\Users\Josh\Documents\School Stuff 2020-2021\C# Stuff\Sekol-Bowling-Statistics\SekolBowlingStats\SekolBowlingStats\obj\Debug\SekolBowlingStats.g.resources
+C:\Users\Josh\Documents\School Stuff 2020-2021\C# Stuff\Sekol-Bowling-Statistics\SekolBowlingStats\SekolBowlingStats\obj\Debug\SekolBowlingStats.Properties.Resources.resources
+C:\Users\Josh\Documents\School Stuff 2020-2021\C# Stuff\Sekol-Bowling-Statistics\SekolBowlingStats\SekolBowlingStats\obj\Debug\SekolBowlingStats.csproj.GenerateResource.cache
+C:\Users\Josh\Documents\School Stuff 2020-2021\C# Stuff\Sekol-Bowling-Statistics\SekolBowlingStats\SekolBowlingStats\obj\Debug\SekolBowlingStats.csproj.CoreCompileInputs.cache
+C:\Users\Josh\Documents\School Stuff 2020-2021\C# Stuff\Sekol-Bowling-Statistics\SekolBowlingStats\SekolBowlingStats\obj\Debug\SekolBowlingStats.exe
+C:\Users\Josh\Documents\School Stuff 2020-2021\C# Stuff\Sekol-Bowling-Statistics\SekolBowlingStats\SekolBowlingStats\obj\Debug\SekolBowlingStats.pdb

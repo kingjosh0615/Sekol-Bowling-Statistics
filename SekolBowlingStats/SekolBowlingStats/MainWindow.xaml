@@ -24,17 +24,41 @@
                 <RowDefinition Height="*"/>
                 <RowDefinition Height="*"/>
                 <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
             </Grid.RowDefinitions>
-            <!--Content-->
+            <!--User Input Boxes-->
 
-            <TextBox x:Name="Game1UserInput" Grid.Row="0" Grid.Column="0"/>
-            <TextBox x:Name="Game2UserInput" Grid.Row="1" Grid.Column="0"/>
-            <TextBox x:Name="Game3UserInput" Grid.Row="2" Grid.Column="0"/>
-            <TextBlock Text="Game1:" Grid.Row="0" Grid.Column="0"/>
-            <TextBlock Text="Game1:" Grid.Row="1" Grid.Column="0"/>
-            <TextBlock Text="Game1:" Grid.Row="2" Grid.Column="0"/>
+            <TextBox x:Name="Game1UserInput" Grid.Row="1" Grid.Column="0" BorderBrush="Black" Width="130" Height="80" VerticalAlignment="Center" HorizontalAlignment="Right"/>
+            <TextBox x:Name="Game2UserInput" Grid.Row="2" Grid.Column="0" BorderBrush="Black" Width="130" Height="80" VerticalAlignment="Center" HorizontalAlignment="Right"/>
+            <TextBox x:Name="Game3UserInput" Grid.Row="3" Grid.Column="0" BorderBrush="Black" Width="130" Height="80" VerticalAlignment="Center" HorizontalAlignment="Right"/>
+            <TextBlock Text="Game1:" Grid.Row="1" Grid.Column="0" FontSize="16" VerticalAlignment="Center"/>
+            <TextBlock Text="Game2:" Grid.Row="2" Grid.Column="0" FontSize="16" VerticalAlignment="Center"/>
+            <TextBlock Text="Game3:" Grid.Row="3" Grid.Column="0" FontSize="16" VerticalAlignment="Center"/>
+            <!--Radio Buttons-->
+            <TextBlock Text="Gender:" Grid.Row="0" Grid.Column="0" FontSize="16" VerticalAlignment="Center"/>
+            <StackPanel VerticalAlignment="Center">
+                <TextBlock Text="&#x9;&#x9;       Male:" FontSize="16" RenderTransformOrigin="0.5,0.5" >
+                    <TextBlock.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform/>
+                            <SkewTransform/>
+                            <RotateTransform Angle="-0.325"/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </TextBlock.RenderTransform>
+                </TextBlock>
+                <RadioButton  RenderTransformOrigin="0.5,0.5" Margin="184,0,0,0" x:Name="maleradiobutton"/>
+                <TextBlock Text="&#x9;&#x9;   Female:" FontSize="16"/>
+                <RadioButton  RenderTransformOrigin="0.5,0.5" Margin="184,0,0,0" x:Name="femaleradiobutton"/>
+            </StackPanel>
+            <!--System Output Boxes-->
+            <TextBlock Text="Series: " Grid.Row="1" Grid.Column="2" FontSize="32" VerticalAlignment="Center" HorizontalAlignment="Right"/>
+            <TextBlock Text="Average: " Grid.Row="2" Grid.Column="2" FontSize="32" VerticalAlignment="Center" HorizontalAlignment="Right"/>
+            <TextBlock Text="Handicap: " Grid.Row="3" Grid.Column="2" FontSize="32" VerticalAlignment="Center" HorizontalAlignment="Right"/>
 
-
+            <TextBlock Text="0" Grid.Row="1" Grid.Column="3" FontSize="32" VerticalAlignment="Center" HorizontalAlignment="Left"/>
+            <TextBlock Text="0" Grid.Row="2" Grid.Column="3" FontSize="32" VerticalAlignment="Center" HorizontalAlignment="Left"/>
+            <TextBlock Text="0" Grid.Row="3" Grid.Column="3" FontSize="32" VerticalAlignment="Center" HorizontalAlignment="Left"/>
         </Grid>
         <!--Lower Grid-->
         <Grid Grid.Row="1">
@@ -43,10 +67,12 @@
                 <ColumnDefinition Width="*"/>
                 <ColumnDefinition Width="*"/>
             </Grid.ColumnDefinitions>
-            <!--Content-->
-            
-            
-            
+            <!--Buttons-->
+
+            <Button x:Name="usersubmitbutton" Content="Submit" FontSize="32" Grid.Column="0" Margin="5"/>
+            <Button x:Name="cleardatabutton" Content="Clear" FontSize="32" Grid.Column="1" Margin="5"/>
+            <Button x:Name="exitprogrambutton" Content="Exit" FontSize="32" Grid.Column="2" Margin="5"/>
+
         </Grid>
     </Grid>
 </Window>
