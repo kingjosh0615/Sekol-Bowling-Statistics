@@ -1,0 +1,15 @@
+C:\Users\WILES_JOSHUA\source\repos\Sekol-Bowling-Statistics\SekolBowlingStats\SekolBowlingStats\bin\Debug\SekolBowlingStats.exe.config
+C:\Users\WILES_JOSHUA\source\repos\Sekol-Bowling-Statistics\SekolBowlingStats\SekolBowlingStats\bin\Debug\SekolBowlingStats.exe
+C:\Users\WILES_JOSHUA\source\repos\Sekol-Bowling-Statistics\SekolBowlingStats\SekolBowlingStats\bin\Debug\SekolBowlingStats.pdb
+C:\Users\WILES_JOSHUA\source\repos\Sekol-Bowling-Statistics\SekolBowlingStats\SekolBowlingStats\obj\Debug\SekolBowlingStats.csprojAssemblyReference.cache
+C:\Users\WILES_JOSHUA\source\repos\Sekol-Bowling-Statistics\SekolBowlingStats\SekolBowlingStats\obj\Debug\MainWindow.g.cs
+C:\Users\WILES_JOSHUA\source\repos\Sekol-Bowling-Statistics\SekolBowlingStats\SekolBowlingStats\obj\Debug\App.g.cs
+C:\Users\WILES_JOSHUA\source\repos\Sekol-Bowling-Statistics\SekolBowlingStats\SekolBowlingStats\obj\Debug\SekolBowlingStats_MarkupCompile.cache
+C:\Users\WILES_JOSHUA\source\repos\Sekol-Bowling-Statistics\SekolBowlingStats\SekolBowlingStats\obj\Debug\SekolBowlingStats_MarkupCompile.lref
+C:\Users\WILES_JOSHUA\source\repos\Sekol-Bowling-Statistics\SekolBowlingStats\SekolBowlingStats\obj\Debug\MainWindow.baml
+C:\Users\WILES_JOSHUA\source\repos\Sekol-Bowling-Statistics\SekolBowlingStats\SekolBowlingStats\obj\Debug\SekolBowlingStats.g.resources
+C:\Users\WILES_JOSHUA\source\repos\Sekol-Bowling-Statistics\SekolBowlingStats\SekolBowlingStats\obj\Debug\SekolBowlingStats.Properties.Resources.resources
+C:\Users\WILES_JOSHUA\source\repos\Sekol-Bowling-Statistics\SekolBowlingStats\SekolBowlingStats\obj\Debug\SekolBowlingStats.csproj.GenerateResource.cache
+C:\Users\WILES_JOSHUA\source\repos\Sekol-Bowling-Statistics\SekolBowlingStats\SekolBowlingStats\obj\Debug\SekolBowlingStats.csproj.CoreCompileInputs.cache
+C:\Users\WILES_JOSHUA\source\repos\Sekol-Bowling-Statistics\SekolBowlingStats\SekolBowlingStats\obj\Debug\SekolBowlingStats.exe
+C:\Users\WILES_JOSHUA\source\repos\Sekol-Bowling-Statistics\SekolBowlingStats\SekolBowlingStats\obj\Debug\SekolBowlingStats.pdb
